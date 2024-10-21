@@ -1,4 +1,4 @@
-# Customer-Churn-Management
+# Predictive Analysis of Customer Churn Management
 
 A Jupyter Notebook file was added to the project.
 - The notebook includes data analysis on the Telecom Customer dataset
