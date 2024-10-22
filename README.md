@@ -3,16 +3,16 @@
 This project focuses on predictive analysis to determine customer churn using machine learning techniques. The goal is to predict whether a customer will churn (leave the service) based on various features in the dataset.
 
 ## Project Overview
-Dataset: Telecom Customer Churn Database
-Objective: Predict customer churn using machine learning models.
-Model Used: Logistic Regression
+* Dataset: Telecom Customer Churn Database
+* Objective: Predict customer churn using machine learning models.
+* Model Used: Logistic Regression
 
 ## Key Features
-Tools: Jupyter Notebook, Python
-Libraries:
-  Pandas for data manipulation and cleaning
-  NumPy for numerical computations
-  Scikit-learn for machine learning and model evaluation
+* Tools: Jupyter Notebook, Python
+* Libraries:
+  1. Pandas for data manipulation and cleaning
+  2. NumPy for numerical computations
+  3. Scikit-learn for machine learning and model evaluation
 
 ## Steps
 1. Data Cleaning and Preprocessing
